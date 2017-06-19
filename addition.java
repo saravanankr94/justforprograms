@@ -8,7 +8,7 @@ class AddNumbers
       x=1;
       y=2;
       b=2;
-      z = x+y+z;
+      z = x+y+b;
       System.out.println("Sum of entered integers = "+z);
    }
 }
