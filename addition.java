@@ -10,4 +10,5 @@ class AddNumbers
       b=2;
       z = x+y+z;
       System.out.println("Sum of entered integers = "+z);
+   }
 }
