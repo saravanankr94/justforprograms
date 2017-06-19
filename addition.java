@@ -4,7 +4,7 @@ class AddNumbers
 {
    public static void main (String args[])
    {
-      int x, y, z;
+      int x, y, z,b;
       x=1;
       y=2;
       b=2;
